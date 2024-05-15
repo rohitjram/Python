@@ -7,7 +7,7 @@ The Goal is to perform Exploratory Data Analysis on a Credit Card Fraud Detectio
 - Language: Python
 - Libraries: Pandas, Numpy, Matplotlib, Seaborn
 
-  ## Appendix
+## Appendix
 
   - Exploratory Data Analysis
   - Descriptive Analysis
